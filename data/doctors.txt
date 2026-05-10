@@ -1,0 +1,4 @@
+1,Dr. Ahmed Khan,Cardiology,03001111111,doc123,1500.00
+2,Dr. Sara Malik,Neurology,03002222222,doc456,2000.00
+3,Dr. Usman Ali,Orthopedics,03003333333,doc789,1200.00
+4,Dr. Fatima Noor,Dermatology,03004444444,doc000,1800.00
